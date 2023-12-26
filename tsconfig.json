@@ -10,6 +10,11 @@
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "skipLibCheck": true,
+    "paths": {
+      "my-chatbot-lib": [
+        "./dist/my-chatbot-lib"
+      ]
+    },
     "esModuleInterop": true,
     "sourceMap": true,
     "declaration": false,
