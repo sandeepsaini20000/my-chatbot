@@ -67,12 +67,10 @@
           },
           "configurations": {
             "production": {
-              "buildTarget": "my-chatbot:build:production",
               "browserTarget": "my-chatbot:build:build:production"
 
             },
             "development": {
-              "buildTarget": "my-chatbot:build:development",
               "browserTarget": "my-chatbot:build:production"
 
             }
